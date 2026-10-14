@@ -1,44 +1,68 @@
-<!-- ============ 头部紫色开花banner ============ -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header-night.svg" />
-    <img src="header.svg" width="900" alt="iiirena banner" style="filter: hue-rotate(270deg) saturate(1.2);" />
-  </picture>
+
+<!-- 花朵装饰 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=200&section=header&text=iiirena&fontSize=60&fontColor=ffffff" />
+
+### *Always learning, always blooming 🌸*
+
+<!-- 技术栈徽章 -->
+<div>
+  <img src="https://img.shields.io/badge/LLMs-Claude-FFB7C5?style=flat-square&logo=claude" />
+  <img src="https://img.shields.io/badge/LLMs-Gemini-FFB7C5?style=flat-square&logo=google" />
+  <img src="https://img.shields.io/badge/LLMs-DeepSeek-FFB7C5?style=flat-square&logo=deepseek" />
+  <img src="https://img.shields.io/badge/LLMs-Qwen-FFB7C5?style=flat-square&logo=alibaba" />
+  <img src="https://img.shields.io/badge/LLMs-Mistral-FFB7C5?style=flat-square&logo=mistral" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/AGENTS-LangGraph-90EE90?style=flat-square&logo=langgraph" />
+  <img src="https://img.shields.io/badge/AGENTS-LangChain-90EE90?style=flat-square&logo=langchain" />
+  <img src="https://img.shields.io/badge/AGENTS-LlamaIndex-90EE90?style=flat-square&logo=llamaindex" />
+  <img src="https://img.shields.io/badge/AGENTS-CrewAI-90EE90?style=flat-square&logo=crewai" />
+  <img src="https://img.shields.io/badge/AGENTS-MCP-90EE90?style=flat-square" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/INFERENCE-Ollama-FFD700?style=flat-square&logo=ollama" />
+  <img src="https://img.shields.io/badge/INFERENCE-vLLM-FFD700?style=flat-square&logo=vllm" />
+  <img src="https://img.shields.io/badge/INFERENCE-HuggingFace-FFD700?style=flat-square&logo=huggingface" />
+  <img src="https://img.shields.io/badge/INFERENCE-OpenRouter-FFD700?style=flat-square" />
+  <img src="https://img.shields.io/badge/INFERENCE-Gradio-FFD700?style=flat-square&logo=gradio" />
+  <img src="https://img.shields.io/badge/INFERENCE-Streamlit-FFD700?style=flat-square&logo=streamlit" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/RAG%2FDATA-Milvus-FF69B4?style=flat-square&logo=milvus" />
+  <img src="https://img.shields.io/badge/RAG%2FDATA-Redis-FF69B4?style=flat-square&logo=redis" />
+  <img src="https://img.shields.io/badge/RAG%2FDATA-pgvector-FF69B4?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/RAG%2FDATA-Supabase-FF69B4?style=flat-square&logo=supabase" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/LANG%2FOPS-Python-ADD8E6?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/LANG%2FOPS-TypeScript-ADD8E6?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/LANG%2FOPS-PyTorch-ADD8E6?style=flat-square&logo=pytorch" />
+  <img src="https://img.shields.io/badge/LANG%2FOPS-FastAPI-ADD8E6?style=flat-square&logo=fastapi" />
+  <img src="https://img.shields.io/badge/LANG%2FOPS-Docker-ADD8E6?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/LANG%2FOPS-Kubernetes-ADD8E6?style=flat-square&logo=kubernetes" />
 </div>
 
 <br>
 
-<!-- 个人介绍 -->
-<div align="center">
-Hi, I'm iiirena 💜
-AI Major Student
-</div>
+<!-- 贪吃蛇动态图 -->
+<img src="https://github.com/iiirena/iiirena/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 
 <br>
 
-<!-- 连续打卡统计图 -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="streak-night.svg" />
-  <img width="495" src="streak.svg" alt="contribution streak" style="filter: hue-rotate(270deg) saturate(1.2);" />
-</picture>
-</div>
+<!-- 小猫咪动态图 -->
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 <br>
 
-<!-- 贪吃蛇贡献图 -->
-<div align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/iiirena/iiirena/output/github-contribution-grid-snake.svg">
-</div>
+<!-- 贡献热力图 -->
+[![iiirena's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiirena&show_icons=true&theme=rose)](https://github.com/iiirena)
 
-<br>
-
-<!-- 底部猫咪花园 -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="garden-footer-night.svg" />
-    <img src="garden-footer.svg" width="900" alt="footer" style="filter: hue-rotate(270deg) saturate(1.2);" />
-  </picture>
-
+<!-- 底部波浪装饰 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=150&section=footer" />
 
 </div>
