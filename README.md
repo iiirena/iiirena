@@ -1,34 +1,44 @@
-<!--
-  Living Scene profile template — three edits and you are done:
-  1. This repository must be named exactly like your GitHub username (Settings → Rename).
-  2. Change "yourname" in header.svg (two places: the <text> and the <title>), and put your
-     latitude, longitude and timezone in .github/workflows/scene.yml.
-  3. Actions tab → "Living scene" → Run workflow. From then on it keeps itself current.
-  Then replace the text below with your own and delete this comment.
--->
-
+<!-- ============ 头部紫色开花banner ============ -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header-night.svg" />
-    <img src="header.svg" width="900" alt="" />
+    <img src="header.svg" width="900" alt="iiirena banner" style="filter: hue-rotate(270deg) saturate(1.2);" />
   </picture>
 </div>
 
+<br>
+
+<!-- 个人介绍 -->
 <div align="center">
-
-### Hi, I'm iiirena
-
-A sentence or two about what you build and what you are learning.
-
+Hi, I'm iiirena 💜
+AI Major Student
 </div>
 
-<br/>
+<br>
 
+<!-- 连续打卡统计图 -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="streak-night.svg" />
+  <img width="495" src="streak.svg" alt="contribution streak" style="filter: hue-rotate(270deg) saturate(1.2);" />
+</picture>
+</div>
+
+<br>
+
+<!-- 贪吃蛇贡献图 -->
+<div align="center">
+  <img alt="snake" src="https://raw.githubusercontent.com/iiirena/iiirena/output/github-contribution-grid-snake.svg">
+</div>
+
+<br>
+
+<!-- 底部猫咪花园 -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="garden-footer-night.svg" />
-    <img src="garden-footer.svg" width="900" alt="" />
+    <img src="garden-footer.svg" width="900" alt="footer" style="filter: hue-rotate(270deg) saturate(1.2);" />
   </picture>
 
-  <sub>The sky above follows the real forecast and the garden follows the season — powered by <a href="https://github.com/yuki4266/living-scene">living-scene</a>.</sub>
+
 </div>
