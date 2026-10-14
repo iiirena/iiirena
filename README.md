@@ -12,9 +12,6 @@
 
 <br>
 
-<!-- 贡献热力图 -->
-[![iiirena's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiirena&show_icons=true&theme=purple)](https://github.com/iiirena)
-
 <!-- 底部紫色波浪装饰 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=b39ddb&height=150&section=footer" />
 
